@@ -1,3 +1,17 @@
+
+
+# Zotero Note Template
+- Open the _Config Editor_ (say yes when it ask to be cautious)
+- Find the `extensions.zotero.note.css` , right click and select _Modify_ (if you don’t know how to do a right click, you can also double click).
+- In the text input, copy the following css:
+
+
+
+
+``` css
+
+
+
 body {
     max-width: 35em;
     margin: 0 auto;
@@ -6,6 +20,7 @@ body {
     font-family: "Times New Roman", Times, serif;
     color: black;
 }
+
 
 h1 {
     font-size: 1.8em;
@@ -94,3 +109,4 @@ span.comment {
     ;
     font-style: italic;
 }
+```
