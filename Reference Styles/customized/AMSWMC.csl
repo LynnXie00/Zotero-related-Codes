@@ -401,7 +401,7 @@
     </layout>
   </citation>
 
-  <bibliography hanging-indent="false" et-al-min="8" et-al-use-first="6" entry-spacing="0" line-spacing="1">
+  <bibliography hanging-indent="false" et-al-min="8" et-al-use-first="6" entry-spacing="1" line-spacing="1" >
     <sort>
       <key macro="author"/>
       <key macro="issued-sort" sort="ascending"/>
