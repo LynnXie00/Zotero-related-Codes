@@ -19,18 +19,19 @@ body {
     padding-right: 20px;
     font-family: "Times New Roman", Times, serif;
     color: black;
+    font-size:2em;
 }
 
 
 h1 {
-    font-size: 1.8em;
+    font-size: 3em;
     padding-bottom: none;
     font-family: "Georgia";
     font-weight: bold;
 }
 
 h2 {
-    font-size: 1.6em;
+    font-size: 2.8em;
     font-weight: bold;
     padding-bottom: none;
     border-bottom: none;
@@ -40,7 +41,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1.4em;
+    font-size: 2.6em;
     font-family: "Georgia";
     font-style: italic;
     text-transform: capitalize;
@@ -49,7 +50,7 @@ h3 {
 }
 
 h4 {
-    font-size: 1.2em;
+    font-size: 2.4em;
     font-family: "Georgia";
     font-style: underline;
     text-transform: capitalize;
@@ -59,7 +60,7 @@ h4 {
 }
 
 h5 {
-    font-size: 1em;
+    font-size: 2.2em;
     font-family: "Times New Roman", Times, serif;
     font-style: underline;
     text-transform: capitalize;
